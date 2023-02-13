@@ -26,3 +26,9 @@ All notable changes to the "lowres-nx" extension will be documented in this file
 ## 0.0.6
 - Adding run command to start LowRes NX from command palette
 - Adding some extension settings for new run command
+
+# Indev changes by DJMoffinz
+## 0.0.7 - dev
+- Working on highlighting string variables as well as regular variables, so far unsucessfully
+
+Note: These changes are specific to this fork and may not be present in the original repository.
